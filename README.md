@@ -1,1 +1,1 @@
-# doublesub-cookiepattern
+# DoubleSubmitCookiePattern
